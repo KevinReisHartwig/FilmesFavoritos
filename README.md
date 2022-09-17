@@ -1,6 +1,6 @@
 # Filmes
 
-![preview](./.filme/amostra.png.png)
+![amostra](./.filme/amostra.png.png)
 
 > Trilha Explorer
 
